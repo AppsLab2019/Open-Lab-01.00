@@ -1,4 +1,4 @@
-# open-lab-01.00
+# Open-Lab-01.00
 Úvodne cvičenie na rozbehanie GitHubu.
 
 1. Vytvorte si konto na GitHube.
